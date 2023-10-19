@@ -1,5 +1,5 @@
 # Web Server Ubuntu 22.04
-Final Project Web Server
+Final Project Web Server menggunakan Ubuntu Server
 
 # Latar Belakang 
 Membuat web server di Ubuntu adalah langkah penting jika ingin meng-host situs web atau aplikasi web. 
@@ -15,5 +15,14 @@ Ubuntu adalah salah satu distribusi Linux yang populer untuk keperluan server
 3. NGINX
 4. MySQL
 5. PHPmyadmin
+6. WordPress
 
-# 
+# Progress Saat Ini
+1. Install Ubuntu server -> 18 Oktober 2023
+2. Install SSH -> 18 Oktober 2023
+3. Install Apache2 -> 18 Oktober 2023
+4. Install MySQL -> 18 Oktober 2023
+5. Install PHPmyadmin -> 18 Oktober 2023
+6. Install WordPress -> 19 Oktober 2023
+
+
