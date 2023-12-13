@@ -27,4 +27,8 @@ Ubuntu adalah salah satu distribusi Linux yang populer untuk keperluan server
 7. Konfigurasi WordPress -> 4 Desember 2023
 8. Pasang Domain -> Progres Masih Gagal
 
+# Hasil Akhir
+![image](https://github.com/fayisbhi/Web-Server-Ubuntu/assets/148295638/4f900e1d-a190-4da0-8648-1449c45b0191)
+
+
 
